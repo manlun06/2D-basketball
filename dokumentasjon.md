@@ -61,10 +61,3 @@ problemløsing og hvordan man tester et spill.
 Jeg lærte også hvor viktig det er å forbedre
 spillet underveis i utviklingen.
 
-## 7. Deling av produktet
-
-Begge spillene er laget i Roblox Studio.
-
-Basketballspill: LEGG INN LENKE
-
-Please Donate: LEGG INN LENKE
