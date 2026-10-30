@@ -24,10 +24,6 @@ til hverandre. Det brukes ikke ekte Robux.
 
 Spillene åpnes gjennom Roblox-lenkene nedenfor.
 
-### Lenker
-- Basketballspill: LEGG INN LENKE
-- Please Donate: LEGG INN LENKE
-
 ## Dokumentasjon
 
 Se dokumentasjon.md for informasjon om planlegging,
